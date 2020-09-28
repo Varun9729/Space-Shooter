@@ -11,3 +11,6 @@ The game starts with a tap of the Space Bar.
 <img width="300" alt="PowerUp-2" src="https://user-images.githubusercontent.com/20821711/94397501-98932880-0129-11eb-9a2e-8dd3e503fa5b.png">
 <img width="300" alt="PowerUp-3" src="https://user-images.githubusercontent.com/20821711/94397504-992bbf00-0129-11eb-86ae-c8250b064a87.png">
 These are the three PowerUp's that the user can collect throughout the game to improve the chances of survival and increasing the score. 
+
+<img width="500" alt="GameOver" src="https://user-images.githubusercontent.com/20821711/94397610-d09a6b80-0129-11eb-91c4-5be5f98b2678.png">
+Once all the lives are exhausted, the game can be restarted by clicking on the 'R' button.
